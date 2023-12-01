@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
       
       // Reset color after 1 second
       setTimeout(() => {
-        square.style.backgroundColor = "lightgray";
+        square.style.backgroundColor = "black";
       }, 1000);
     });
 
